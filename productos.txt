@@ -1,0 +1,12 @@
+Nro 1, Nombre: Papaya, Cantidad: 25, Costo Neto: 1.2, Costo Total: 30.0
+Nro 2, Nombre: Pera, Cantidad: 20, Costo Neto: 0.8, Costo Total: 16.0
+Nro 3, Nombre: Manzana, Cantidad: 10, Costo Neto: 1.2, Costo Total: 12.0
+Nro 4, Nombre: Mora, Cantidad: 500, Costo Neto: 0.2, Costo Total: 100.0
+Nro 5, Nombre: Naranja, Cantidad: 20, Costo Neto: 1.23, Costo Total: 24.6
+Nro 6, Nombre: Limon, Cantidad: 15, Costo Neto: 2.5, Costo Total: 37.5
+Nro 7, Nombre: Apio, Cantidad: 26, Costo Neto: 0.5, Costo Total: 13.0
+Nro 8, Nombre: Limon, Cantidad: 25, Costo Neto: 1.2, Costo Total: 30.0
+Nro 9, Nombre: Queso, Cantidad: 23, Costo Neto: 5.2, Costo Total: 119.60000000000001
+Nro 10, Nombre: Lima, Cantidad: 56, Costo Neto: 1.0, Costo Total: 56.0
+Nro 11, Nombre: Pera, Cantidad: 25, Costo Neto: 2.0, Costo Total: 50.0
+Nro 12, Nombre: Papa, Cantidad: 25, Costo Neto: 5.0, Costo Total: 125.0

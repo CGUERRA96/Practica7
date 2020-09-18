@@ -20,5 +20,8 @@ try:
         if lista_productos:
             Productos.ingresar_productos(conn, lista_productos)
         break
+
+    Productos.generar_reporte(conn)
+
 except Exception as e:
     print(f'{str(e)}')
